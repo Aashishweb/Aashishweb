@@ -3,7 +3,7 @@
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishweb&label=Profile%20views&color=0e75b6&style=flat" alt="aashishweb" /> </p>
 
-- 🌱 I’m currently learning **Frontend Developer, Scrimba**
+- 🌱 I’m currently learning **Frontend, Scrimba**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aashishweb?tab=repositories](https://github.com/Aashishweb?tab=repositories)
 
